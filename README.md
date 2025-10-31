@@ -2,8 +2,7 @@
 
 ## 🎯 Project Overview
 
-This project documents a **Customer Profitability and Loyalty Analysis** conducted on transactional sales data from **April to September 2025**.
-
+This project documents a **Customer Profitability and Loyalty Analysis** conducted on transactional sales data from **April to September 2025** of Pet Point at Delhi. The Pet Point is a retail business that sells pet products (food, accessories, toys, etc.) through its physical stores and online platform. It also provides related retail services like pet grooming.
 The primary goal was to quantify customer value using key metrics (**LTV**, **AOV**, **Repeat Rate**) and segment the business's product offerings into actionable categories (**Food**, **Vet**, **Grooming**) to drive targeted marketing and operational strategies.
 
 ---
